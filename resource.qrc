@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>images/marioPipeInvert.png</file>
+        <file>images/bird.png</file>
+        <file>images/background.png</file>
+        <file>images/gameOver.png</file>
+        <file>images/marioPipe.png</file>
+    </qresource>
+</RCC>
